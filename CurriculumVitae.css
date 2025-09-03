@@ -81,15 +81,15 @@
 #main {
     display: flex;
     justify-content: flex-start;
-    margin-left: 170px;
+    margin-left: 170px; 
 }
-
 #photo{
-    box-shadow: 0 -5px 10px rgba(89, 0, 255, 0.3),
-                0  5px 10px rgba(89, 0, 255, 0.3);
+    box-shadow: 0 -5px 15px rgb(0, 0, 0), 
+                0  5px 15px rgb(0, 0, 0), 
+                5px 0 15px rgba(0, 0, 0, 0.3); 
+}
+#personal_info{
+    box-shadow: 0 -5px 15px rgb(0, 0, 0), 
+                0  5px 15px rgb(0, 0, 0); 
 }
 
-#personal_info{
-    box-shadow: 0 -5px 10px rgba(89, 0, 255, 0.3),
-                0  5px 10px rgba(89, 0, 255, 0.3);
-}
