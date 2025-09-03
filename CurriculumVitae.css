@@ -1,7 +1,3 @@
-#photo{
-box-shadow: 0 -5px 10px rgba(89, 0, 255, 0.3),
-                0  5px 10px rgba(89, 0, 255, 0.3);
-}
 #skills-attitudes{
     width: 300px;
     
@@ -86,6 +82,14 @@ box-shadow: 0 -5px 10px rgba(89, 0, 255, 0.3),
     display: flex;
     justify-content: flex-start;
     margin-left: 170px;
+}
+
+#photo{
+    box-shadow: 0 -5px 10px rgba(89, 0, 255, 0.3),
+                0  5px 10px rgba(89, 0, 255, 0.3);
+}
+
+#personal_info{
     box-shadow: 0 -5px 10px rgba(89, 0, 255, 0.3),
                 0  5px 10px rgba(89, 0, 255, 0.3);
 }
