@@ -1,6 +1,7 @@
 #skills-attitudes{
     width: 300px;
-    
+    box-shadow: 0 -5px 10px rgba(89, 0, 255, 0.3),
+                0  5px 10px rgba(89, 0, 255, 0.3);
 }
 #nombre{
     max-height: 100px;
@@ -82,5 +83,6 @@
     display: flex;
     justify-content: flex-start;
     margin-left: 170px;
-    box-shadow: 5px 5px 10px rgba(94, 0, 218, 0.5); /* x-offset, y-offset, blur, color */
+    box-shadow: 0 -5px 10px rgba(89, 0, 255, 0.3),
+                0  5px 10px rgba(89, 0, 255, 0.3);
 }
